@@ -1,10 +1,10 @@
 [Plymouth Theme]
-Name=Cutefish Text
-Description=Cutefish Text
+Name=Project Aevis Text
+Description=Project Aevis Text
 ModuleName=text
 
 [text]
-title=CutefishOS
+title=Project Aevis
 black=0x263238
 white=0xffffff
 brown=0x03A9F4
