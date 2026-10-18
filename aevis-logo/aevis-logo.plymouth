@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Project Aevis Logo
+Description=Project Aevis splash theme.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/aevis-logo
+ScriptFile=/usr/share/plymouth/themes/aevis-logo/aevis-logo.script
